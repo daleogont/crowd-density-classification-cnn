@@ -2,6 +2,8 @@
 
 A machine learning project that classifies crowd density in images into three categories — **Low**, **Medium**, and **High** — using the ShanghaiTech dataset. Implements three models (Custom CNN, MobileNetV2, ResNet50) with Grad-CAM and SHAP explainability.
 
+> **⚠️ Note on notebook rendering:** GitHub does not render large Jupyter notebooks fully in the browser. Sections 10 (SHAP) and 11 (Final Summary) may not be visible when viewing the notebook on GitHub. To see the complete notebook with all outputs, please download the file and open it locally, or view it directly on [Kaggle](https://www.kaggle.com) where it was originally run.
+ 
 ---
 
 ## Results
